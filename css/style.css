@@ -1789,7 +1789,7 @@ a.brand:focus{
   top:0;
   left: 0;
   width: 100000px;
-  height: 1px;
+  height: 0px;
   background: #fff;
 }
 
