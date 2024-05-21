@@ -2132,6 +2132,36 @@ a.brand:focus{
   
 }
 
+.link_button {
+  color: black !important;
+  border: 2px solid #3AC5A7;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10rem;
+}
+
+.link_button:hover {
+  background-color: #3AC5A7;
+  color: white;
+}
+
+.link_button_2 {
+  color: white !important;
+  border: 2px solid #3AC5A7;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10rem;
+}
+
+.link_button_2:hover {
+  background-color: #3AC5A7;
+  color: white;
+}
+
 
 
 
